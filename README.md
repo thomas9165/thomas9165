@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @thomas9165
+- 👀 I’m interested in coding in Java and Python
+- 🌱 I’m currently studying BSc Computer Science
